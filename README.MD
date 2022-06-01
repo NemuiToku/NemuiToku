@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="32px"></a> Welcome! 
+# <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="40px" height="40px"></img> Welcome! 
 I’m Toku, a user starting in the world of coding and 
 <br> I enjoy learning, testing and playing with new software.
 
@@ -23,15 +23,9 @@ I’m Toku, a user starting in the world of coding and
 [![GitHub](https://img.shields.io/badge/-GitHub-242e43?style=for-the-badge&logo=github)](https://github.com/NemuiToku/)
 ![JS](https://img.shields.io/badge/JavaScript-242e43?style=for-the-badge&logo=javascript&logoColor=white)
 
-## 💬 My Social Media
-[![](https://img.shields.io/badge/-reddit-orange?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/NemuiToku)
-[![](https://img.shields.io/badge/-Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nemuitoku/)
-[![](https://img.shields.io/badge/-telegram-2CA5E0?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/NemuiToku)
-</br>
-
 ## 🗃️ My Github Stats  
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=nemuitoku&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nemuitoku&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%, height:100%" />
  <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemuitoku&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemuitoku&hide_border=true&layout=compact" align="left" style="width: 100%, height:100%" />
 </td></tr></table>  
